@@ -1,0 +1,9 @@
+drops:
+  ZOMBIE: 15
+  SKELETON: 15
+  SPIDER: 15
+  CREEPER: 20
+  ENDERMAN: 60
+  WITHER_SKELETON: 50
+  PILLAGER: 40
+userData: {}
